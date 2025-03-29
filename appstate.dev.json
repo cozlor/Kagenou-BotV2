@@ -1,1 +1,65 @@
-// put your Appstate here 
+[
+    {
+        "key": "sb",
+        "value": "k30AZ4ZL5sA7_iKcci_dz8xd",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-03-28T16:50:35.512Z",
+        "lastAccessed": "2025-03-28T16:50:35.512Z"
+    },
+    {
+        "key": "dpr",
+        "value": "3.2983407974243164",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-03-28T16:50:35.512Z",
+        "lastAccessed": "2025-03-28T16:50:35.512Z"
+    },
+    {
+        "key": "c_user",
+        "value": "100054995045893",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-03-28T16:50:35.512Z",
+        "lastAccessed": "2025-03-28T16:50:35.512Z"
+    },
+    {
+        "key": "xs",
+        "value": "14%3Al2iwuAYUdvyHPQ%3A2%3A1743180360%3A-1%3A15214",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-03-28T16:50:35.512Z",
+        "lastAccessed": "2025-03-28T16:50:35.512Z"
+    },
+    {
+        "key": "wd",
+        "value": "891x1703",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-03-28T16:50:35.512Z",
+        "lastAccessed": "2025-03-28T16:50:35.512Z"
+    },
+    {
+        "key": "fr",
+        "value": "0PP8TknEJwcwI2kcn.AWfw0jPhlyYhNj4e5PVtt_RhwhwV3COioQT1ydSbU_fqLkbYyWw.BnAH2T..AAA.0.0.Bn5tL_.AWc3c_EfKwmDO7Xay9YJqTXnk8I",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-03-28T16:50:35.512Z",
+        "lastAccessed": "2025-03-28T16:50:35.512Z"
+    },
+    {
+        "key": "presence",
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1743180549186%2C%22v%22%3A1%7D",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-03-28T16:50:35.512Z",
+        "lastAccessed": "2025-03-28T16:50:35.512Z"
+    }
+]
